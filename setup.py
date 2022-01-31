@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='ApartmentHunter',
+    name='apartment-hunter',
     version='1.0.0',
     packages=['websites'],
     url='',
