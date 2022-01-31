@@ -6,6 +6,9 @@ Currently supports the following websites:
 
 * www.rentfaster.ca
 
+# Usage
+A detailed usage guide is in progress... for now, reach out to user: brendoser
+
 # Install Requirements
 Python >= 3.8.6
 
