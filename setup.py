@@ -9,5 +9,5 @@ setup(
     author='brenden.dielissen',
     author_email='brendendielissen@gmail.com',
     description='A package for automating the process of searching for rental properties.',
-    install_requires=['pandas>=1.2.4']
+    install_requires=['pandas>=1.2.4', 'requests>=2.25.1']
 )
