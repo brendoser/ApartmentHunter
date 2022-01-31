@@ -8,3 +8,10 @@ Currently supports the following websites:
 
 # Install Requirements
 Python >= 3.8.6
+
+# Installation
+pip install git+https://github.com/brendoser/ApartmentHunter#egg=apartment-hunter
+
+Notes:
+
+* Enter in terminal/command prompt to run
